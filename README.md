@@ -4,7 +4,7 @@ This python code contains a national data-based energy modelling to identify opt
 
 This approach is further detailed in the following scientific article: 
 
-  **J. Lizana, et al. (2022) A national data-based energy modelling to identify optimal heat storage capacity to support heating electrification [...] **
+  **J. Lizana, et al. (2022) A national data-based energy modelling to identify optimal heat storage capacity to support heating electrification. Energy. https://doi.org/10.1016/j.energy.2022.125298**
 
 ## Overview
 
